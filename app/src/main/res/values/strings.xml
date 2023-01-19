@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dz_java_4</string>
+    <string name="logo">LOGIN</string>
+        <string name="account">Don"t have an account?</string>
+    </resources>
